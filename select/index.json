@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "bad idea",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-04T02:59:53.779450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "bad idea",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_bad_idea_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Idea",
+      "artist": "AlunaGeorge",
+      "has_synced": true,
+      "path": "select/02_Bad_Idea_AlunaGeorge.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Idea",
+      "artist": "Sara Bareilles feat. Jason Mraz",
+      "has_synced": true,
+      "path": "select/03_Bad_Idea_Sara_Bareilles_feat._Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I've Got A Dark Alley And A Bad Idea That Says You Should Shut Your Mouth (Summer Song)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/04_I've_Got_A_Dark_Alley_And_A_Bad_Idea_That_Says_You_Should_Shut_Your_Mouth_(Summe_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Idea",
+      "artist": "Siriusmo",
+      "has_synced": false,
+      "path": "select/05_Bad_Idea_Siriusmo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad Idea (Reprise)",
+      "artist": "Drew Gehling feat. Jessie Mueller, Keala Settle, Eric Anderson, Kimiko Glenn, Waitress Original Broadway Cast Ensemble & Christopher Fitzgerald",
+      "has_synced": true,
+      "path": "select/06_Bad_Idea_(Reprise)_Drew_Gehling_feat._Jessie_Mueller,_Keala_Settle,_Eric_Anderson,_Kimiko_Glenn,_Wa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Idea (Reprise)",
+      "artist": "Christopher Fitzgerald",
+      "has_synced": true,
+      "path": "select/07_Bad_Idea_(Reprise)_Christopher_Fitzgerald.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad Idea",
+      "artist": "Madeline Kenney",
+      "has_synced": false,
+      "path": "select/08_Bad_Idea_Madeline_Kenney.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Idea",
+      "artist": "Sara Bareilles Jason Mraz",
+      "has_synced": true,
+      "path": "select/09_Bad_Idea_Sara_Bareilles_Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "bad idea!",
+      "artist": "girl in red",
+      "has_synced": true,
+      "path": "select/10_bad_idea!_girl_in_red.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "bad idea - live",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_bad_idea_-_live_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad Idea",
+      "artist": "Leah Kate",
+      "has_synced": true,
+      "path": "select/12_Bad_Idea_Leah_Kate.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad Idea",
+      "artist": "Yuna",
+      "has_synced": true,
+      "path": "select/13_Bad_Idea_Yuna.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Idea",
+      "artist": "Motion City Soundtrack",
+      "has_synced": true,
+      "path": "select/14_Bad_Idea_Motion_City_Soundtrack.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "bad idea!",
+      "artist": "girl in red",
+      "has_synced": true,
+      "path": "select/15_bad_idea!_girl_in_red.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bad Idea - Original Demo Version",
+      "artist": "Ben Folds Five",
+      "has_synced": true,
+      "path": "select/16_Bad_Idea_-_Original_Demo_Version_Ben_Folds_Five.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "bad idea (Instrumental)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/17_bad_idea_(Instrumental)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Baby's Got a Bad Idea",
+      "artist": "Justin Townes Earle",
+      "has_synced": false,
+      "path": "select/18_Baby's_Got_a_Bad_Idea_Justin_Townes_Earle.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bad idea",
+      "artist": "アリアナ・グランデ",
+      "has_synced": false,
+      "path": "select/pl_01_bad_idea_アリアナ・グランデ.txt"
+    }
+  ]
+}
